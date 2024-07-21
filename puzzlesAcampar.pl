@@ -63,7 +63,6 @@ sol(8-1, ([
 [4,0,1,2,1,3,0,2],[2,0,2,2,2,2,1,2])).
 
 % Exemplos do enunciado - predicados
-% Copiar para o terminal em vez de copiar do pdf e dar asneira
 
 /*
 
