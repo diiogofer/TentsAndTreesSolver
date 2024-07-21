@@ -1,4 +1,4 @@
-% 110306 - Diogo Fernandes
+%  Diogo Fernandes (diiogofer - https://github.com/diiogofer)
 :- use_module(library(clpfd)). 
 :- set_prolog_flag(answer_write_options,[max_depth(0)]). 
 :- ['puzzlesAcampar.pl']. 
